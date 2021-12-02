@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 🎀 Nabila Cans
 
 
-Most Used Languages
+
 Python 75.14%
 HTML 13.49%
 JavaScript 8.83%
